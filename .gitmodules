@@ -1,0 +1,3 @@
+[submodule "Packages/com.eldieguuu.scriptableobjectsfromsheet"]
+	path = Packages/com.eldieguuu.scriptableobjectsfromsheet
+	url = git@github.com:ElDiegu/scriptable-objects-from-sheets.git
